@@ -1,0 +1,16 @@
+.header {
+    min-height: 120px;
+}
+
+.icon {
+    padding: 1%;
+    width: 100px;
+    height: 100px;
+
+    transition: 0.3s;
+}
+
+.icon:hover {
+    transform: scale(1.1) rotate(-10deg);
+    filter: drop-shadow(5px 5px 5px gray);
+}

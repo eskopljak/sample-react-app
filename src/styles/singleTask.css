@@ -1,0 +1,29 @@
+.taskText {
+    font-size: 20px;
+}
+
+.task {
+    background-color: #CCFFDD;
+    min-height: 40px;
+
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 5px;
+
+    overflow-wrap: break-word;
+
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 5px;
+}
+
+.task:hover {
+    cursor: pointer;
+}
+
+.grayedOutDiv {
+    opacity: 0.5;
+    background-color: #F3ECFE;
+    text-decoration: line-through;
+}
+
+.checkmarkOpacity {
+    opacity: 0.5;
+}

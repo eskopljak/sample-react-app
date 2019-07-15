@@ -1,0 +1,8 @@
+.linkFont {
+    color: black;
+}
+
+.linkFont:hover {
+    text-decoration: none;
+    color: black;
+}
